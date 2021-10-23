@@ -1,1 +1,9 @@
-
+{
+  "AcceptLogin" : true,
+  
+  "AcceptBypass" : true,
+  
+  "AcceptURF" : true,
+  
+  "AcceptChampion" : true
+}
