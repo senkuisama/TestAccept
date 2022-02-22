@@ -3,7 +3,7 @@
   
   "AcceptBypass" : true,
   
-  "AcceptURF" : false,
+  "AcceptURF" : true,
   
   "AcceptChampion" : true
 }
